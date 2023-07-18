@@ -70,7 +70,9 @@ nav ul li a {
 
 .btn {
     display: inline-block;
-    background: linear-gradient(45deg, #87adfe, #ff77cd);
+    /* background: linear-gradient(45deg, #87adfe, #ff77cd); */
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(161,134,160,1) 35%, rgba(0,212,255,1) 100%);
     border-radius: 6px;
     padding: 10px 20px;
     box-sizing: border-box;
